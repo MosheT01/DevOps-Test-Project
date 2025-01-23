@@ -1,9 +1,10 @@
 # DevOps-Test-Project
 
+[Evaluation Instructions](EVALUATION.md)
+
 This project demonstrates deploying a Python web application using Docker and Kubernetes, fulfilling the requirements for a DevOps test.
 
 ---
-
 
 ## Question 2 Answer
 
