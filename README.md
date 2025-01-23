@@ -4,7 +4,6 @@ This project demonstrates deploying a Python web application using Docker and Ku
 
 ---
 
----
 
 ## Question 2 Answer
 
