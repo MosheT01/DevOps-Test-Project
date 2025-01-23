@@ -20,6 +20,14 @@ docker push your-username/your-image-name
 
 ---
 
+## Question 4 Answer
+
+כדי לפרוס את האפליקציה ב-EKS הייתי יוצר Deployment עם לפחות שני מופעים באמצעות Kubernetes, וזה ידאג שיהיו תמיד שני מופעים של האפליקציה.  
+האפליקציה תאזין לפורט 80 דרך Service מסוג LoadBalancer שימפה את הפורט החיצוני לפורט הפנימי של הקונטיינר.  
+את משתנה הסביבה הייתי שומר בתוך Secret של Kubernetes, כדי שהוא יהיה סודי ולא יופיע בקוד.
+
+---
+
 ## Overview
 
 The application exposes a `/status` endpoint that:
